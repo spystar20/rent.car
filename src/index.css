@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* 
+.light{
+    bg: #ffff;
+    light-text: #0000;
+    ight-first: #f1f5f9;
+    light-second: #f3f4f6;
+}
+.dark{
+    dark-bg: #0000;
+    dark-text: #ffff;
+    dark-first: #211D1D;
+    dark-second: #fff3;
+} */
