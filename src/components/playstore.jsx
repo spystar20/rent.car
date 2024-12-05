@@ -1,5 +1,5 @@
 import React from 'react'
-import '../assets/pattern.jpeg'
+import  '../assets/pattern.jpeg'
 import img from '../assets/play_store.png'
 import img2 from '../assets/app_store_.png'
 const playstore = () => {
