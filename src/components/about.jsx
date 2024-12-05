@@ -1,5 +1,5 @@
 import React from 'react'
-import  car from '/car1.png'
+import  car from '../assets/car1.png'
 
 const About = () => {
   return (

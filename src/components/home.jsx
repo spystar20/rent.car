@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react'
 
-import car1 from '/banner-car.png'
-import car from '/car.png'
+import car1 from '../assets/banner-car.png'
+
 import 'aos/dist/aos.css'
 import Aos from 'aos'
 import Navbar from './Navbar'

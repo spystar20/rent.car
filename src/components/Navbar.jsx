@@ -1,9 +1,9 @@
 import React, { useContext, useEffect, useState } from 'react'
-import moon from '/moon.png'
-import menubar from '/menu.png'
-import user from '/user.png'
-import sun from '/brightness .png'
-import { html } from 'motion/react-m'
+import moon from '../assets/moon.png'
+
+import user from '../assets/user.png'
+import sun from '../assets/brightness .png'
+
 import { RiMenuFill } from "react-icons/ri";
 const Navbar = () => {
   const [isDarkMode, setIsDarkMode] = useState(localStorage.theme === "dark");

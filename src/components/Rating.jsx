@@ -1,5 +1,5 @@
 import React from 'react'
-import img from '/rater.jpg'
+import img from '../assets/rater.jpg'
 const Rating = () => {
   return (
     <div className='flex flex-col w-auto  p-5  gap-10 py-40 lg:px-14 dark:bg-black dark:text-white'>

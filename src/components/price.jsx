@@ -1,7 +1,7 @@
 import React from 'react'
-import car1 from '/car1.png'
-import car2 from '/car5.png'
-import car3 from '/car6.png'
+import car1 from '../assets/car1.png'
+import car2 from '../assets/car5.png'
+import car3 from '../assets/car6.png'
 const Price = () => {
   return (
     <div className='flex flex-col  gap-6  w-full p-2 px-4 py-10 lg:px-14 dark:bg-stone-900 dark:text-white' id='pricing'>
